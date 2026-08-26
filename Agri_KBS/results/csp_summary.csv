@@ -1,0 +1,2 @@
+backtracking_solution,backtracking_nodes,backtracking_time,backtracking_cost,min_conflicts_solution,min_conflicts_steps,min_conflicts_time,min_conflicts_cost
+"{'Zone_4': 8, 'Zone_5': 10, 'Zone_8': 12, 'Zone_16': 14}",517,0.0034130000276491046,16.0,"{'Zone_4': 12, 'Zone_5': 8, 'Zone_8': 10, 'Zone_16': 18}",6,0.0006648999406024814,25.0
